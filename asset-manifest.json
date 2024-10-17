@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "./static/css/main.01c054ce.css",
+    "main.js": "./static/js/main.88546d73.js",
+    "static/media/nba_sound.mp3": "./static/media/nba_sound.ee9947d64036de7cc2f3.mp3",
+    "static/media/longBuzzer.mp3": "./static/media/longBuzzer.a60dc9604d8277c3df2e.mp3",
+    "static/media/buzzer.mp3": "./static/media/buzzer.ee37d6ea31548104295b.mp3",
+    "static/media/Digital_Dismay.otf": "./static/media/Digital_Dismay.8a8838f38696eb20b243.otf",
+    "index.html": "./index.html",
+    "main.01c054ce.css.map": "./static/css/main.01c054ce.css.map",
+    "main.88546d73.js.map": "./static/js/main.88546d73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01c054ce.css",
+    "static/js/main.88546d73.js"
+  ]
+}
